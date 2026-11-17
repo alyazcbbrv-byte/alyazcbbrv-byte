@@ -34,6 +34,11 @@ I turn raw business data into decisions: **clean it, model it, measure it, and t
 - **Document everything:** every project has a README with findings, recommendations and limitations, plus DAX and data dictionaries.
 - **Keep models reproducible:** Power BI projects are stored as text (PBIP/TMDL) in Git.
 
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alyaz%20Cabbarova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyaz-cabbarova-450a6140b)
+[![Email](https://img.shields.io/badge/Email-alyazcbbrv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyazcbbrv@gmail.com)
+
 ---
 
 ### 🇦🇿 Azərbaycanca
