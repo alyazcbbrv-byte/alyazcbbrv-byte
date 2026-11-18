@@ -48,7 +48,7 @@ I turn raw business data into decisions: **clean it, model it, measure it, and t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alyaz%20Cabbarova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyaz-cabbarova-450a6140b)
 [![Email](https://img.shields.io/badge/Email-alyazcbbrv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyazcbbrv@gmail.com)
 
-🌐 [Portfolio site](https://alyazcbbrv-byte.github.io) · 📄 [CV (PDF, Azerbaijani)](https://alyazcbbrv-byte.github.io/CV_Alyaz_Cabbarova.pdf)
+🌐 [Portfolio site](https://alyazcbbrv-byte.github.io) · 📄 [CV (PDF)](https://alyazcbbrv-byte.github.io/CV_Alyaz_Cabbarova_EN.pdf)
 
 ---
 
