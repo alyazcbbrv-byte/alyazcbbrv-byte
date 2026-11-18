@@ -16,9 +16,10 @@ I turn raw business data into decisions: **clean it, model it, measure it, and t
 |---|---|
 | **BI and dashboards** | Power BI, DAX (time intelligence, cohort and churn measures), Power Query (M), star-schema modelling, PBIP/TMDL version control |
 | **SQL** | Joins, subqueries, CTEs (incl. recursive), window functions, schema design and integrity checks, SQLite |
-| **Data preparation** | Python (pandas, openpyxl), automated data-quality checks, ETL from messy Excel files |
+| **Data preparation and EDA** | Python (pandas, seaborn, SciPy, openpyxl), Jupyter, automated data-quality checks, ETL from messy Excel files |
 | **Analysis** | Growth and plan-vs-actual analysis, churn and store-lifetime analysis, seasonality, category and region concentration |
-| **Also studied** | Excel (advanced), statistics |
+| **Excel** | Formula-driven dashboards (SUMIFS, INDEX/MATCH, data validation), native charts, Excel tables |
+| **Also studied** | Statistics (hypothesis testing: chi-square, Kruskal-Wallis, Mann-Whitney) |
 
 ## 🚀 Featured projects
 
@@ -28,6 +29,8 @@ I turn raw business data into decisions: **clean it, model it, measure it, and t
 | <a href="https://github.com/alyazcbbrv-byte/toyota-sales-powerbi"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/toyota-sales-powerbi/main/images/3_avropa.png" width="300" alt="Toyota dashboard"></a> | **[Toyota sales dashboard](https://github.com/alyazcbbrv-byte/toyota-sales-powerbi)**<br>3-page report: sales map, stock, Europe analysis | Reviewed and fixed an existing report: broken month sorting, a wrong 54% YoY figure (correct: 34.8%), duplicated filters, unusable navigation. | Power BI, DAX |
 | <a href="https://github.com/alyazcbbrv-byte/amazon-sales-analysis"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/amazon-sales-analysis/main/reports/figures/00_icmal.png" width="300" alt="Amazon analysis"></a> | **[Amazon sales analysis](https://github.com/alyazcbbrv-byte/amazon-sales-analysis)**<br>672 k transactions, 4 years | 22% CAGR, driven by transaction volume (average order value flat). Three categories make up 69% of sales. | Python, pandas, Power BI |
 | <a href="https://github.com/alyazcbbrv-byte/sql-hr-analytics"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/sql-hr-analytics/main/images/01_payroll_by_department.png" width="300" alt="SQL HR analytics"></a> | **[HR analytics with SQL](https://github.com/alyazcbbrv-byte/sql-hr-analytics)**<br>32 queries on a 7-table HR database (107 employees) | Sales is 44.5% of payroll; hiring peaked in 2015 and slowed since; clerks sit below 80% of their pay-band midpoint; a newer Programmer out-earns the longest-serving one. | SQL (SQLite), CTEs, window functions, Python |
+| <a href="https://github.com/alyazcbbrv-byte/student-performance-eda"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/student-performance-eda/main/images/03_risk_by_attendance.png" width="300" alt="Student performance EDA"></a> | **[Student performance: Python EDA](https://github.com/alyazcbbrv-byte/student-performance-eda)**<br>1,000 course results, 244 students, statistical tests | An F appears only at 60% attendance or below, and nothing below a D above 80%. Majors, gender and credit hours show no significant difference. A simple rule flags 12% of students at risk. | Python, pandas, seaborn, SciPy |
+| <a href="https://github.com/alyazcbbrv-byte/restaurant-sales-excel-dashboard"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/restaurant-sales-excel-dashboard/main/images/dashboard_preview.png" width="300" alt="Excel dashboard"></a> | **[Restaurant sales: Excel dashboard](https://github.com/alyazcbbrv-byte/restaurant-sales-excel-dashboard)**<br>1,000 orders, 10 locations, dropdown filters | Main courses are 66% of revenue; Friday to Sunday bring 57%. Built with formulas only (SUMIFS, no macros or pivots) and checked against pandas. | Excel, SUMIFS, native charts |
 
 ## 📌 How I work
 
