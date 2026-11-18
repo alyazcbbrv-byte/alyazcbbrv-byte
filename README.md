@@ -15,9 +15,10 @@ I turn raw business data into decisions: **clean it, model it, measure it, and t
 | Area | Tools and techniques |
 |---|---|
 | **BI and dashboards** | Power BI, DAX (time intelligence, cohort and churn measures), Power Query (M), star-schema modelling, PBIP/TMDL version control |
+| **SQL** | Joins, subqueries, CTEs (incl. recursive), window functions, schema design and integrity checks, SQLite |
 | **Data preparation** | Python (pandas, openpyxl), automated data-quality checks, ETL from messy Excel files |
 | **Analysis** | Growth and plan-vs-actual analysis, churn and store-lifetime analysis, seasonality, category and region concentration |
-| **Also studied** | Excel (advanced), SQL, statistics |
+| **Also studied** | Excel (advanced), statistics |
 
 ## 🚀 Featured projects
 
@@ -26,6 +27,7 @@ I turn raw business data into decisions: **clean it, model it, measure it, and t
 | <a href="https://github.com/alyazcbbrv-byte/retail-sales-vs-plan-powerbi"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/retail-sales-vs-plan-powerbi/main/images/1_icmal.png" width="300" alt="Retail dashboard"></a> | **[Retail chain: sales, plan and churn](https://github.com/alyazcbbrv-byte/retail-sales-vs-plan-powerbi)**<br>274 stores, 50 regions, 4 years of daily data | Growth comes from sales per store (+144%), not network size. The plan is a 29-day lagged copy of sales. Stores trade ~500 days, then close (66% closed). | Power BI, DAX, Python |
 | <a href="https://github.com/alyazcbbrv-byte/toyota-sales-powerbi"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/toyota-sales-powerbi/main/images/3_avropa.png" width="300" alt="Toyota dashboard"></a> | **[Toyota sales dashboard](https://github.com/alyazcbbrv-byte/toyota-sales-powerbi)**<br>3-page report: sales map, stock, Europe analysis | Reviewed and fixed an existing report: broken month sorting, a wrong 54% YoY figure (correct: 34.8%), duplicated filters, unusable navigation. | Power BI, DAX |
 | <a href="https://github.com/alyazcbbrv-byte/amazon-sales-analysis"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/amazon-sales-analysis/main/reports/figures/00_icmal.png" width="300" alt="Amazon analysis"></a> | **[Amazon sales analysis](https://github.com/alyazcbbrv-byte/amazon-sales-analysis)**<br>672 k transactions, 4 years | 22% CAGR, driven by transaction volume (average order value flat). Three categories make up 69% of sales. | Python, pandas, Power BI |
+| <a href="https://github.com/alyazcbbrv-byte/sql-hr-analytics"><img src="https://raw.githubusercontent.com/alyazcbbrv-byte/sql-hr-analytics/main/images/01_payroll_by_department.png" width="300" alt="SQL HR analytics"></a> | **[HR analytics with SQL](https://github.com/alyazcbbrv-byte/sql-hr-analytics)**<br>32 queries on a 7-table HR database (107 employees) | Sales is 44.5% of payroll; hiring peaked in 2015 and slowed since; clerks sit below 80% of their pay-band midpoint; a newer Programmer out-earns the longest-serving one. | SQL (SQLite), CTEs, window functions, Python |
 
 ## 📌 How I work
 
