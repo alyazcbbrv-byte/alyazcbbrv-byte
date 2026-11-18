@@ -49,4 +49,6 @@ Xam biznes datasını **təmizləyir, modelləşdirir, ölçür və dashboard-la
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alyaz%20Cabbarova-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyaz-cabbarova-450a6140b)
 [![Email](https://img.shields.io/badge/Email-alyazcbbrv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyazcbbrv@gmail.com)
 
+🌐 [Portfel saytı](https://alyazcbbrv-byte.github.io) · 📄 [CV (PDF)](https://alyazcbbrv-byte.github.io/CV_Alyaz_Cabbarova.pdf)
+
 📍 Bakı, Azərbaycan · Layihələrin README-ləri Azərbaycan dilindədir, ingiliscə versiyaları `README.en.md` faylındadır.
